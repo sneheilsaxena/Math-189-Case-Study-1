@@ -1,5 +1,5 @@
 # Math-189-Case-Study-1
-Case Study 1 for Math 189, WI 19.
+Case Study 1 for Math 189: Exploratory Data Analysis and Inference, WI 19.
 
 ## Prerequisites
 RStudio (Packages: ggplot2, moments) 
